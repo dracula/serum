@@ -2,12 +2,19 @@
 
 > A dark theme for [Serum](https://xferrecords.com/products/serum/).
 
-![Screenshot](./interface.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
 All instructions can be found at [draculatheme.com/serum](https://draculatheme.com/serum).
 
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+
+| [![sleeplessKomodo](https://github.com/sleeplessKomodo.png?size=100)](https://github.com/sleeplessKomodo) |
+| --------------------------------------------------------------------------------------------------------- |
+| [sleeplessKomodo](https://github.com/sleeplessKomodo)                                                     |
 
 ## Community
 
